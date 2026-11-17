@@ -1,0 +1,15 @@
+MEGA TEST PRO V5.6 — SENAI HUB
+
+Este pacote contém o aplicativo web e ícones para instalação PWA.
+
+Para instalar no smartphone:
+1. Hospede TODOS os arquivos desta pasta em um servidor HTTPS (ex.: Vercel, GitHub Pages), mantendo a estrutura.
+2. Abra o endereço HTTPS no Chrome Android e escolha Instalar aplicativo ou Adicionar à tela inicial.
+3. No iPhone, abra no Safari > Compartilhar > Adicionar à Tela de Início.
+4. Abra uma vez com internet para que os arquivos sejam armazenados para uso offline.
+
+O arquivo index.html aberto diretamente como file:// não instala um PWA. Para uso local simples, utilize o HTML avulso distribuído separadamente.
+
+A identidade SENAI HUB presente no aplicativo é textual; a arte de ícone foi criada para este projeto e não é uma logomarca institucional oficial fornecida.
+
+Os dados ficam no armazenamento local do navegador. Faça cópias dos relatórios importantes.
