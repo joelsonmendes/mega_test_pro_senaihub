@@ -13,3 +13,5 @@ O arquivo index.html aberto diretamente como file:// não instala um PWA. Para u
 A identidade SENAI HUB presente no aplicativo é textual; a arte de ícone foi criada para este projeto e não é uma logomarca institucional oficial fornecida.
 
 Os dados ficam no armazenamento local do navegador. Faça cópias dos relatórios importantes.
+
+V5.7: Calculadora IP R1min/R10min, classificação condicionada à IEEE 43, registro de classe térmica e seção específica no relatório PDF.
